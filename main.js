@@ -1,4 +1,3 @@
-console.log(process.env.AAA)
 let tx = document.getElementById('inf'), fetche=true, error=false, sandbox=false
 function dofe() {
     let txr="", us_east = [], eu_west = [], us_west = [], gb = [], sg = [], au = [], st = [];
